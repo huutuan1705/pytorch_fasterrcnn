@@ -1,0 +1,11 @@
+numpy==1.26.4
+torch==2.5.0
+torchvision==0.20.0
+yaml==6.0.1
+base64
+argparse
+uvicorn==0.31.0
+opencv-python==4.6.0.66
+pydantic==2.9.1
+fastapi==0.115.0
+gdown==5.2.0
