@@ -1,6 +1,6 @@
 numpy
-torch
-torchvision
+torch==1.13
+torchvision==0.14
 yaml
 base64
 argparse
