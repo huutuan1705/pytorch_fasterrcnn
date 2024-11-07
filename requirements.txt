@@ -1,5 +1,5 @@
-torch==2.0
-torchvision==0.15
+torch==2.0+cpu
+torchvision==0.15.0+cpu
 pyyaml
 pybase64
 argparse
